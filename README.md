@@ -1,9 +1,10 @@
 ## Olá! Eu sou a Damara Santos 👋
+<img align="center" height="200em"
+src="https://gist.githubusercontent.com/DamaraLucena/197feb63eddcead981e47cae59ad780f/raw/494305927523bc87f6b37d781f32675ad333d585/githubCard.svg"/>
 
 <div>
-    <img display="flex" height="180em" src="https://github-readme-stats.vercel.app/api?username=damaralucena&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight">
-    <img display="flex" width="" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damaralucena&layout=compact&theme=tokyonight">
-
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=damaralucena&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight">
+    <img aling="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damaralucena&layout=compact&theme=tokyonight">
 </div>
 
 ### Tecnologias
@@ -23,8 +24,6 @@
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-
-    
 </div>
 
 ### 🔗 Entre em contato
