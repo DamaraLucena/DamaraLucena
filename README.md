@@ -1,23 +1,10 @@
 ## Olá! Eu sou a Damara Santos 👋
 
-## 🚀 Sobre mim
+<div>
+    <img display="flex" height="180em" src="https://github-readme-stats.vercel.app/api?username=damaralucena&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight">
+    <img display="flex" width="" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damaralucena&layout=compact&theme=tokyonight">
 
-<p> Apaixonada por tecnologia e inovação, busco constantemente por desafios que me permitam desenvolver habilidades de liderança, pensamento crítico e resolução de problemas. 
-
-Meu foco é encontrar soluções eficientes e inovadoras que beneficiem pessoas e empresas. Sou comprometida, organizada e valorizo o trabalho em equipe. 
-
-Estou sempre atualizada sobre as tendências do mercado e pronta para contribuir em projetos empolgantes.
-</p><br/> 
-
-
-![Damara GitHub stats](https://github-readme-stats.vercel.app/api?username=damaralucena&show_icons=true&count_private=true&theme=tokyonight)
-
-
-### 👩‍💻 Tecnologias mais usadas no dia a dia 
-<br/> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damaralucena&theme=tokyonight)](https://github.com/damaralucena/github-readme-stats)
-
+</div>
 
 ### Tecnologias
 
