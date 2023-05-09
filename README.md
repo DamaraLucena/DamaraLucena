@@ -3,7 +3,6 @@
 src="https://gist.githubusercontent.com/DamaraLucena/197feb63eddcead981e47cae59ad780f/raw/494305927523bc87f6b37d781f32675ad333d585/githubCard.svg"/>
 
 <div width="100%">
-    <img src="https://github-readme-stats.vercel.app/api?username=damaralucena&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight">
     <img aling="right" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damaralucena&layout=compact&theme=tokyonight">
 </div>
 
