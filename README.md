@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Damara Santos 👋
 <img align="center" width="100%" height="200em"
-src="https://gist.githubusercontent.com/DamaraLucena/197feb63eddcead981e47cae59ad780f/raw/494305927523bc87f6b37d781f32675ad333d585/githubCard.svg"/>
+src="https://raw.githubusercontent.com/gist/DamaraLucena/cadb81e80980865da967d75571e38bb8/raw/e5f86510506168ac76e07769641852e0fe3b0c29/githubCardTwo.svg"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=damaralucena&rank_icon=github&theme=midnight-purple&" />
