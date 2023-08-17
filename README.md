@@ -3,10 +3,10 @@
 src="https://gist.githubusercontent.com/DamaraLucena/197feb63eddcead981e47cae59ad780f/raw/494305927523bc87f6b37d781f32675ad333d585/githubCard.svg"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=damaralucena&rank_icon=github&theme=midnight-purple&card_width=400&" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=damaralucena&rank_icon=github&theme=midnight-purple&" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damaralucena&layout=compact&langs_count=8&card_width=400&&theme=midnight-purple&" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damaralucena&layout=compact&langs_count=8&card_width=350&&theme=midnight-purple&" />
 </a>
 
 ### Tecnologias
