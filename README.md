@@ -2,6 +2,13 @@
 <img align="center" width="100%" height="200em"
 src="https://gist.githubusercontent.com/DamaraLucena/197feb63eddcead981e47cae59ad780f/raw/494305927523bc87f6b37d781f32675ad333d585/githubCard.svg"/>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=damaralucena&rank_icon=github&theme=midnight-purple&card_width=470&" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damaralucena&layout=compact&langs_count=8&card_width=460&&theme=midnight-purple&" />
+</a>
+
 ### Tecnologias
 
 <div>
@@ -34,10 +41,4 @@ src="https://gist.githubusercontent.com/DamaraLucena/197feb63eddcead981e47cae59a
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ECVyDsxr)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/damara_lucena/)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=damaralucena&rank_icon=github&theme=midnight-purple" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damaralucena&layout=compact&langs_count=&theme=midnight-purple&card_width=350"/>
-</a>
 
