@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Damara Santos 👋
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/damaralucena/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damaralucena&layout=compact&langs_count=8&card_width=350&&theme=midnight-purple&" />
 </a>
 
