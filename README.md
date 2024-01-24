@@ -1,6 +1,4 @@
 ## Olá! Eu sou a Damara Santos 👋
-<img align="center" width="100%" height="200em"
-src="https://raw.githubusercontent.com/gist/DamaraLucena/cadb81e80980865da967d75571e38bb8/raw/e5f86510506168ac76e07769641852e0fe3b0c29/githubCardTwo.svg"/>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damaralucena&layout=compact&langs_count=8&card_width=350&&theme=midnight-purple&" />
@@ -11,17 +9,18 @@ src="https://raw.githubusercontent.com/gist/DamaraLucena/cadb81e80980865da967d75
 <div>
     <span>⭐️ Tenho experiência</span><br/><br/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br/><br/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"><br/><br/>
 </div>
 <div>
     <span>🧠 Estou estudando</span><br/><br/>
+    <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><br/><br/>
 </div>
 <div>
     <span>📚 Tenho interesse</span><br/><br/>
-    <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
