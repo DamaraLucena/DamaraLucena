@@ -20,7 +20,7 @@
 
 ## My Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,spring,angular,tailwind,wordpress,figma,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,spring,angular,tailwind,php,laravel,wordpress,figma,git,github&theme=dark" />
 
 ## About me
 
