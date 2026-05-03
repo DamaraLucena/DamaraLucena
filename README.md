@@ -54,6 +54,26 @@ const damara = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=damaralucena&theme=tokyonight&hide_border=true&ring=80F7D4&fire=80F7D4&currStreakLabel=80F7D4" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=damaralucena&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=80F7D4&line=9d00ff&point=ffffff&area=true&area_color=80F7D4" alt="Activity graph" />
+</p>
+
+### 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=damaralucena&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=5" alt="Trophies" />
+</p>
+
+### 🐍 Snake eating my contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DamaraLucena/DamaraLucena/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DamaraLucena/DamaraLucena/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/DamaraLucena/DamaraLucena/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ### 🚀 Projeto pessoal favorito do momento
