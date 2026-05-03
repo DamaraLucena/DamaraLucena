@@ -1,47 +1,97 @@
-## Hello! I'm Damara Santos 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Damara%20Lucena&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Dev%20Full%20Stack%20Júnior%20%7C%20Construindo%20automações%20com%20LLMs&descSize=14&descAlignY=60&animation=fadeIn"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/damaralucena/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:operacao@codecentauri.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.instagram.com/damaralucena_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=DamaraLucena&label=Visitas&color=0e75b6&style=flat-square" alt="Profile views"/>
+</p>
 
-<div align='center'>
+---
 
-<div align="center">  
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=damaralucena&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damaralucena&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-  
-</div>
+### 👋 Olá, sou a Damara!
 
-</div>
+```ts
+const damara = {
+  role:       "Dev Full Stack Júnior",
+  empresa:    "Code Centauri",
+  formacao:   "Ciência da Computação · UNICID",
+  cidade:     "Dois Vizinhos, Paraná 🇧🇷",
+  foco:       ["automação conversacional", "integração com LLMs", "produtos internos"],
+  curiosa:    ["IA aplicada", "MCP servers", "agentes autônomos"],
+  pergunteme: "sobre tecnologia, games ou esportes!",
+};
+```
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+---
 
-<div><br />
+### 🛠️ Stack atual
 
-## My Stack
+**Core profissional**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,spring,angular,tailwind,php,laravel,wordpress,figma,git,github&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,docker,postgres,redis&theme=dark" />
+</p>
 
-## About me
+**Web & Mobile**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Damara lucena and I am a Full Stack Developer. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />I currently work at Code Centauri.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is HTML, CSS, Javascript, Java, PHP, Angular, Typescript, Laravel and TailwindCSS<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Want to talk about technology, games or sports? Send a message!
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,tailwind,php,laravel&theme=dark" />
+</p>
 
+**IA & Automação**
 
-<br />
+<p>
+  <a href="https://www.anthropic.com"><img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" /></a>
+  <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6E40C9?style=flat-square" /></a>
+  <img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+</p>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+**Ferramentas**
 
-## Contact me
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma&theme=dark" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damaralucena/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Damara_Lucena)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ECVyDsxr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/damaralucena_dev/)
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+### 📊 Estatísticas
 
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=damaralucena&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=80F7D4&icon_color=9d00ff" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damaralucena&layout=compact&theme=tokyonight&hide_border=true&title_color=80F7D4&langs_count=8" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damaralucena&theme=tokyonight&hide_border=true&ring=80F7D4&fire=80F7D4&currStreakLabel=80F7D4" />
+</p>
+
+---
+
+### 🚀 Em que estou trabalhando
+
+> **`eter-telegram-briefing`** — bot Telegram conversacional que envia briefings diários do Éter (CRM/PM da Code Centauri), responde em linguagem natural via Claude + MCP, transcreve áudios via Whisper local e age sobre tarefas direto pelo chat.
+>
+> Stack: TypeScript · Node.js · Docker · Anthropic Claude · MCP-over-SSE · faster-whisper · Telegram Bot API
+>
+> *Repositório privado*
+
+---
+
+### 💡 Sobre mim
+
+- 💻 Atualmente trabalho na **Code Centauri** desenvolvendo automações e integrações com IA
+- 🎓 Cursando **Ciência da Computação** na UNICID
+- 🤖 Foco crescente em construir **agentes autônomos** e **assistentes conversacionais** com LLMs
+- 🌱 Aprendendo: arquitetura de agentes, observabilidade, MCP servers, voz aplicada
+- ✨ Acredito que código bom é código simples — prefiro 50 linhas claras a 200 espertas
+- 💬 Vamos conversar sobre **tecnologia, games ou esportes**? Manda mensagem!
+
+---
+
+<p align="center">
+  <i>"Tente, falhe, aprenda — repita."</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
