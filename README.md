@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Damara%20Lucena&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Construindo%20automações%20conversacionais%20com%20LLMs&descSize=14&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Damara%20Lucena&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Dev%20%26%20Curiosa%20por%20tecnologia&descSize=14&descAlignY=60&animation=fadeIn"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/damaralucena/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -12,12 +12,9 @@
 
 ```ts
 const damara = {
-  cidade:      "Dois Vizinhos, Paraná 🇧🇷",
-  formacao:    "Ciência da Computação · UNICID",
-  curtindo:    ["IA aplicada", "agentes autônomos", "MCP servers", "voz e bots"],
-  construindo: "automações que conversam — Telegram, voz, agenda, CRM",
-  filosofia:   "código bom é código simples — 50 linhas claras > 200 espertas",
-  pergunteme:  "sobre tecnologia, games ou esportes!",
+  cidade:    "Dois Vizinhos, Paraná 🇧🇷",
+  formacao:  "autodidata 🚀",
+  curtindo:  ["full stack", "IA aplicada", "automação de fluxo", "voz e bots"],
 };
 ```
 
@@ -37,20 +34,11 @@ const damara = {
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,tailwind,php,laravel&theme=dark" />
 </p>
 
-**IA & Automação**
+**Workflow & Tooling**
 
 <p>
-  <a href="https://www.anthropic.com"><img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" /></a>
-  <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6E40C9?style=flat-square" /></a>
-  <img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white" />
-</p>
-
-**Tooling**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,figma&theme=dark" />
+  <a href="https://n8n.io"><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /></a>
 </p>
 
 ---
@@ -76,19 +64,6 @@ const damara = {
 > - 🎙️ **Assistente desktop ativado por voz** ("Oi Hermes")
 > - 🧠 Integração com **Claude API** + **MCP** + **Google Calendar**
 > - 🐳 Tudo containerizado (Docker), rodando local
->
-> Stack: TypeScript · Python · Docker · Anthropic Claude · MCP-over-SSE · faster-whisper · Edge TTS · Vosk
-
----
-
-### 💡 Sobre mim
-
-- 🎓 Cursando **Ciência da Computação** na UNICID
-- 🤖 Curtindo construir **agentes autônomos** e **assistentes conversacionais** com LLMs
-- 🎤 Apaixonada por interfaces que dispensam tela — **voz, chat, áudio**
-- 🌱 Aprendendo: arquitetura de agentes, observabilidade, MCP servers, voz aplicada
-- 🎮 Quando não tô codando, provavelmente tô em algum game ou assistindo esporte
-- 💬 Manda mensagem se quiser trocar ideia sobre **IA, tecnologia, games ou esportes!**
 
 ---
 
